@@ -1,0 +1,67 @@
+Shortest job first:
+
+Running task = T1 1 50 for 50 unit(s)
+Running task = T2 1 50 for 50 unit(s)
+Running task = T3 1 50 for 50 unit(s)
+Running task = T4 1 50 for 50 unit(s)
+Running task = T5 1 50 for 50 unit(s)
+Running task = T6 1 50 for 50 unit(s)
+Average turnaround time: 175
+Average waiting time: 41
+
+Schedule priority:
+
+Running task = T6 1 50 for 50 unit(s)
+Running task = T5 1 50 for 50 unit(s)
+Running task = T4 1 50 for 50 unit(s)
+Running task = T3 1 50 for 50 unit(s)
+Running task = T2 1 50 for 50 unit(s)
+Running task = T1 1 50 for 50 unit(s)
+Average turnaround time: 175
+Average waiting time: 41
+
+First Come First Served:
+
+Running task = T1 1 50 for 50 unit(s)
+Running task = T2 1 50 for 50 unit(s)
+Running task = T3 1 50 for 50 unit(s)
+Running task = T4 1 50 for 50 unit(s)
+Running task = T5 1 50 for 50 unit(s)
+Running task = T6 1 50 for 50 unit(s)
+Average turnaround time: 175
+Average waiting time: 41
+
+Round Robin:
+
+Running task = T1 1 50 for 10 unit(s)
+Running task = T2 1 50 for 10 unit(s)
+Running task = T3 1 50 for 10 unit(s)
+Running task = T4 1 50 for 10 unit(s)
+Running task = T5 1 50 for 10 unit(s)
+Running task = T6 1 50 for 10 unit(s)
+Running task = T1 1 50 for 10 unit(s)
+Running task = T2 1 50 for 10 unit(s)
+Running task = T3 1 50 for 10 unit(s)
+Running task = T4 1 50 for 10 unit(s)
+Running task = T5 1 50 for 10 unit(s)
+Running task = T6 1 50 for 10 unit(s)
+Running task = T1 1 50 for 10 unit(s)
+Running task = T2 1 50 for 10 unit(s)
+Running task = T3 1 50 for 10 unit(s)
+Running task = T4 1 50 for 10 unit(s)
+Running task = T5 1 50 for 10 unit(s)
+Running task = T6 1 50 for 10 unit(s)
+Running task = T1 1 50 for 10 unit(s)
+Running task = T2 1 50 for 10 unit(s)
+Running task = T3 1 50 for 10 unit(s)
+Running task = T4 1 50 for 10 unit(s)
+Running task = T5 1 50 for 10 unit(s)
+Running task = T6 1 50 for 10 unit(s)
+Running task = T1 1 50 for 10 unit(s)
+Running task = T2 1 50 for 10 unit(s)
+Running task = T3 1 50 for 10 unit(s)
+Running task = T4 1 50 for 10 unit(s)
+Running task = T5 1 50 for 10 unit(s)
+Running task = T6 1 50 for 10 unit(s)
+Average turnaround time: 275
+Average wait time: 50

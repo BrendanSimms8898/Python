@@ -1,0 +1,62 @@
+Shortest job first:
+
+Running task = T6 1 10 for 10 unit(s)
+Running task = T4 5 15 for 15 unit(s)
+Running task = T1 4 20 for 20 unit(s)
+Running task = T5 5 20 for 20 unit(s)
+Running task = T2 3 25 for 25 unit(s)
+Running task = T3 3 25 for 25 unit(s)
+Running task = T8 10 25 for 25 unit(s)
+Running task = T7 3 30 for 30 unit(s)
+Average turnaround time: 82
+Average waiting time: 17
+
+Schedule priority:
+
+Running task = T8 10 25 for 25 unit(s)
+Running task = T5 5 20 for 20 unit(s)
+Running task = T4 5 15 for 15 unit(s)
+Running task = T1 4 20 for 20 unit(s)
+Running task = T7 3 30 for 30 unit(s)
+Running task = T3 3 25 for 25 unit(s)
+Running task = T2 3 25 for 25 unit(s)
+Running task = T6 1 10 for 10 unit(s)
+Average turnaround time: 108
+Average waiting time: 20
+
+First Come First Served:
+
+Running task = T1 4 20 for 20 unit(s)
+Running task = T2 3 25 for 25 unit(s)
+Running task = T3 3 25 for 25 unit(s)
+Running task = T4 5 15 for 15 unit(s)
+Running task = T5 5 20 for 20 unit(s)
+Running task = T6 1 10 for 10 unit(s)
+Running task = T7 3 30 for 30 unit(s)
+Running task = T8 10 25 for 25 unit(s)
+Average turnaround time: 94
+Average waiting time: 18
+
+Round Robin:
+
+Running task = T1 4 20 for 10 unit(s)
+Running task = T2 3 25 for 10 unit(s)
+Running task = T3 3 25 for 10 unit(s)
+Running task = T4 5 15 for 10 unit(s)
+Running task = T5 5 20 for 10 unit(s)
+Running task = T6 1 10 for 10 unit(s)
+Running task = T7 3 30 for 10 unit(s)
+Running task = T8 10 25 for 10 unit(s)
+Running task = T1 4 20 for 10 unit(s)
+Running task = T2 3 25 for 10 unit(s)
+Running task = T3 3 25 for 10 unit(s)
+Running task = T4 5 15 for 10 unit(s)
+Running task = T5 5 20 for 10 unit(s)
+Running task = T7 3 30 for 10 unit(s)
+Running task = T8 10 25 for 10 unit(s)
+Running task = T2 3 25 for 10 unit(s)
+Running task = T3 3 25 for 10 unit(s)
+Running task = T7 3 30 for 10 unit(s)
+Running task = T8 10 25 for 10 unit(s)
+Average turnaround time: 128
+Average wait time: 21
